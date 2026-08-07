@@ -1,0 +1,8 @@
+.env
+.git
+.gitignore
+target/
+tests/
+scripts/
+migrations/
+.claude
